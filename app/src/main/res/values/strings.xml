@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Inicio</string>
+    <string name="title_covid">COVID-19</string>
+    <string name="title_bolsa_valores">Bolsa de Valores</string>
+    <string name="title_forex">Forex</string>
+    <string name="sign_in">Ingresar</string>
+    <string name="user">Usuario</string>
+    <string name="pass">Contraseña</string>
+    <string name="descripcion_bolsa">Las bolsas de valores permiten la negociación e intercambio entre las empresas que requieren financiamiento, y los ahorradores (personas u organizaciones). Estos últimos buscan invertir su excedente de dinero para obtener una rentabilidad. En las bolsas normalmente se negocia tanto renta variable (acciones) como renta fija (deuda), siendo el primer caso es el más conocido.</string>
+    <string name="titulo_bolsa">¿QUÉ ES LA BOLSA DE VALORES?</string>
+    <string name="subtitle_bolsa">¿POR QUÉ COLAPSO LA BOLSA DE VALORES EN EL 2020?</string>
+    <string name="descr_bolsa_2">El 8 de marzo de 2020, Arabia Saudita inició una guerra de precios con Rusia, lo que provocó una caída importante en el precio del petróleo. La caída de los precios fue una de las causas del colapso del mercado de valores global el 9 de marzo de 2020, conocido coloquialmente como Lunes negro.</string>
+    <string name="title_1">¿QUÉ ES FOREX?</string>
+    <string name="descr_forex_1">Forex, también conocido como divisas, FX o trading de divisas, es un mercado mundial descentralizado de todas las divisas que se operan en todo el mundo. Este mercado es el más grande y más líquido del mundo, con un volumen diario de operaciones que supera los 5 billones de dólares. Los demás mercados bursátiles en el mundo en conjunto no se acercan a esto.</string>
+    <string name="subtitle_forex">¿QUÉ PUEDES HACER CON FOREX?</string>
+    <string name="descr_forex_2">Forex, también conocido como divisas, FX o trading de divisas, es un mercado mundial descentralizado de todas las divisas que se operan en todo el mundo. Este mercado es el más grande y más líquido del mundo, con un volumen diario de operaciones que supera los 5 billones de dólares. Los demás mercados bursátiles en el mundo en conjunto no se acercan a esto.</string>
+    <string name="title_covid_1">¿QUÉ ES EL CORONAVIRUS?</string>
+    <string name="decr_covid_1">El coronavirus es un grupo de virus que causan enfermedades que van desde el resfriado común hasta enfermedades más graves como neumonía, síndrome respiratorio de Oriente Medio (MERS) y síndrome respiratorio agudo grave (SARS). Cabe destacar que la cepa de coronavirus (2019-nCoV) que ha causado el brote en China es nueva y no se conocía previamente.</string>
+    <string name="subtitle_covid">¿QUÉ ES LA COVID-19?</string>
+    <string name="descr_covid_2">La COVID-19 es la enfermedad infecciosa causada por el coronavirus que se ha descubierto más recientemente. Ambos eran desconocidos antes de que estallara el brote en Wuhan (China) en diciembre de 2019.</string>
+</resources>
